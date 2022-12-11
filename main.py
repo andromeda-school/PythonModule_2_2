@@ -32,12 +32,13 @@ size = 75
 left = WIDTH//2 - size//2
 top = HEIGHT//2 - size//2
 
+# КРУЖКА
 # r1 = pygame.draw.rect(surface, PURPLE_COLOR, (left, top, size, 100))
 # pygame.draw.ellipse(surface, PURPLE_COLOR, (left, top+70, 75, 50))
 # pygame.draw.ellipse(surface, PURPLE_COLOR3, (left, top-12, 75, 25))
 # pygame.draw.ellipse(surface, PURPLE_COLOR, (left+35, top+15, 70, 70), 8)
 
-
+# РАДУГА
 # pygame.draw.ellipse(surface, RED_COLOR, (-35, top-69, WIDTH+70, HEIGHT+100), 35)
 # pygame.draw.ellipse(surface, ORANGE_COLOR, (-17, top-35, WIDTH+35, HEIGHT+100), 35)
 # pygame.draw.ellipse(surface, YELLOW_COLOR, (0, top, WIDTH, HEIGHT+100), 35)
@@ -46,6 +47,7 @@ top = HEIGHT//2 - size//2
 # pygame.draw.ellipse(surface, BLUE_COLOR, (52, top+105, WIDTH-105, HEIGHT+100), 35)
 # pygame.draw.ellipse(surface, PURPLE_COLOR, (69, top+140, WIDTH-140, HEIGHT+100), 35)
 
+# ШАХМАТНАЯ ДОСКА
 # colors = [WHITE_COLOR, BLACK_COLOR]
 # pygame.draw.rect(surface, GRAY_COLOR, (size, 0, size*10, size*10), 5)
 # for i in range(8):
